@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins:regular,500,600&display=swap);
+
+@font-face {
+	font-family: CalSans;
+	font-display: swap;
+	src: url("../fonts/CalSans-SemiBold.woff2") format("woff2"), url("../fonts/CalSans-SemiBold.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+
+p {
+	opacity: 0.5;
+}
+
+header {
+	margin-top: 30px;
+	text-align: center;
+}
+
+div {
+	width: 500px;
+	margin-left: 34%;
+	padding-left: 10%;
+}
+
+#msg {
+	display: none;
+}
